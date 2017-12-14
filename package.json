@@ -1,0 +1,31 @@
+{
+  "name": "gorilla-compile",
+  "version": "0.0.1",
+  "description": "Groilla Compiler for EJS Templates (wrapper)",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignitejscl/gorilla-compile.git"
+  },
+  "keywords": [
+    "Gorilla",
+    "gorilla-compiler",
+    "complier",
+    "ejs-wrapper",
+    "ejs",
+    "ejs-compiler"
+  ],
+  "author": "Michael <michaeldoestech@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignitejscl/gorilla-compile/issues"
+  },
+  "homepage": "https://github.com/ignitejscl/gorilla-compile#readme"
+}
